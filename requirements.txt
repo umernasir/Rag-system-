@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+streamlit
+python-dotenv
+python-multipart
+PyJWT
+passlib
+bcrypt
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langgraph
+langchain-chroma
+chromadb
+sentence-transformers
+pypdf
